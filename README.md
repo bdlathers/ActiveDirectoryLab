@@ -1,4 +1,4 @@
-# Active Directory: Simulating a Corporate Environment
+# Active Directory: Simulating a Business Environment
 
 <!-- ## [YouTube Demonstration](#placeholder) -->
 
